@@ -43,15 +43,4 @@ Export: Download a CSV file at the end of the week for your records.
 Developed by **MARK AMGAD**
 
 
-### **Why this looks more professional:**
-1.  **Badges:** The little blue and green "Version" and "License" tags at the top give it an official "software" feel.
-2.  **Table Format:** Using a table for the "Tech Stack" is much easier for recruiters to scan quickly.
-3.  **Visual Hierarchy:** It uses bolding and icons to separate "Features" from "Instructions."
-4.  **No Fluff:** It focuses on the value the app provides (Privacy, Portability, Analytics).
 
-### **To Update it on GitHub:**
-After saving the file, run these commands:
-```bash
-git add README.md
-git commit -m "style: upgrade readme to professional format"
-git push origin main
